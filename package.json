@@ -1,0 +1,23 @@
+{
+  "name": "Example",
+  "version": "0.0.1",
+  "description": "The description of the plugin.",
+  "main": "index.js",
+  "author": "Yves Lorenzo <yves@lorenzo.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://example.com",
+    "serviceName": "Example",
+    "message": "The description of the plugin.",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
